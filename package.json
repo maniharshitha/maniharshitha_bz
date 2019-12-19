@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/maniharshitha/maniharshitha_bz/issues"
   },
-  "homepage": "https://github.com/maniharshitha/maniharshitha_bz#readme"
+  "homepage": "https://github.com/maniharshitha/maniharshitha_bz#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
 }
